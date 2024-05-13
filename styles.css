@@ -1,9 +1,9 @@
 h1 {
-    color: white;
+    margin: 0.5em 0.5em 0;
 }
 body {
-    background-color: #440381;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #FED766;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .box {
@@ -13,21 +13,20 @@ body {
 }
 
 .small_pizza {
-    background-color: #7FB800;
+    background-color: #FE4A49;
     flex: 1;
 }
 .medium_pizza {
-    background-color: #FFB400;
+    background-color: #009fb7;
     flex: 2;
 }
 .large_pizza {
-    background-color: #00A6ED;
+    background-color: #F02993;
     flex: 3;
 }
 
 .contact_us {
-    background-color: #F6511D;
-    color: white;
+    background-color: #965FE3;
 }
 
 @media (min-width: 960px) {
