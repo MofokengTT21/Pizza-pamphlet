@@ -1,0 +1,38 @@
+h1 {
+    color: white;
+}
+body {
+    background-color: #440381;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.box {
+    border-radius: 15px;
+    padding: 1em;
+    margin: 1em;
+}
+
+.small_pizza {
+    background-color: #7FB800;
+    flex: 1;
+}
+.medium_pizza {
+    background-color: #FFB400;
+    flex: 2;
+}
+.large_pizza {
+    background-color: #00A6ED;
+    flex: 3;
+}
+
+.contact_us {
+    background-color: #F6511D;
+    color: white;
+}
+
+@media (min-width: 960px) {
+
+    .pizzas {
+        display: flex;
+    }
+}
