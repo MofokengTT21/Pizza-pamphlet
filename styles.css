@@ -11,6 +11,10 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+b {
+    font-size: medium;
+}
+
 .box {
     border-radius: 15px;
     padding: 1em;
