@@ -9,6 +9,8 @@ h1 {
 body {
     background-color: #FED766;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 1200px;
+    margin: auto;
 }
 
 b {
